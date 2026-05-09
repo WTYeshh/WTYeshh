@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTYeshh&layout=compact&theme=transparent&hide_border=true&title_color=00A6ED&text_color=ffffff" height="150" />
 </p>
 
 <p align="center">
