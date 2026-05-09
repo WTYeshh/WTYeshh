@@ -1,51 +1,62 @@
-# Yeshwanth
-**AI Engineer // Product Designer // Storyteller**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/banner.png" width="100%" alt="Yesh Banner">
+</p>
 
-<p align="left">
-  <a href="https://itsyesh.in">Main Portfolio</a> • 
-  <a href="https://linkedin.com/in/yeshwanth-kg">LinkedIn</a> • 
-  <a href="https://twitter.com/itsyeshh">X</a>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/WTYeshh?style=flat&color=000000&labelColor=000000&logo=github&logoColor=white" alt="stars">
+  <img src="https://img.shields.io/github/forks/WTYeshh?style=flat&color=000000&labelColor=000000&logo=github&logoColor=white" alt="forks">
+  <img src="https://img.shields.io/github/followers/WTYeshh?style=flat&color=000000&labelColor=000000&logo=github&logoColor=white" alt="followers">
 </p>
 
 ---
 
-### / Who I Am
-> I'm an AI engineer focused on building intelligent systems and solving real-world problems with machine learning. Alongside this, I explore prompt-driven design and creative web building. I enjoy turning ideas into clean, functional digital experiences using tools like Canva, Figma, and Framer—bridging logic with design. My work sits at the intersection of AI, creativity, and modern web technologies.
+<h2 align="center">Know About Me</h2>
 
----
-
-### / The Creative Eye
-I also run **[visuals.itsyesh.in](https://visuals.itsyesh.in)**, a dedicated space for my photography and videography. It's where I chase the light and capture the vibe through a cinematic lens.
-
----
-
-### / Core Expertise
-**AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![ML](https://img.shields.io/badge/ML--Engineering-00A6ED?style=flat-square)
-
-**Design & Creative Web**
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Prompt Design](https://img.shields.io/badge/Prompt--Design-000000?style=flat-square&logo=openai&logoColor=white)
-
----
-
-### / Activity Graph
 <p align="left">
+  <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/brain.png" width="150" align="left" style="margin-right: 20px;">
+  <strong>I'm an AI engineer</strong> focused on building intelligent systems and solving real-world problems with machine learning. Alongside this, I explore prompt-driven design and creative web building. I enjoy turning ideas into clean, functional digital experiences using tools like Canva, Figma, and Framer—bridging logic with design. My work sits at the intersection of AI, creativity, and modern web technologies.
+</p>
+
+<br clear="both">
+
+---
+
+<h2 align="center">The Visual Eye</h2>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/camera.png" width="150" align="right" style="margin-left: 20px;">
+  I also run <strong><a href="https://visuals.itsyesh.in">visuals.itsyesh.in</a></strong>, a dedicated space for my photography and videography. It's where I chase the light and capture the vibe through a cinematic lens. I focus on high-end visuals that tell a story beyond the frame.
+</p>
+
+<br clear="both">
+
+---
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/WTYeshh"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
+  <a href="https://linkedin.com/in/yeshwanth-kg"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+  <a href="mailto:yeshwanthkg@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+  <a href="https://twitter.com/itsyeshh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
+</p>
+
+<p align="center">
+  <em>"Code is never finished. It only becomes slightly less terrible over time."</em>
+</p>
+
+---
+
+<h2 align="center">Contribution</h2>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WTYeshh&theme=react-dark&bg_color=00000000&hide_border=true&color=00A6ED" width="100%" />
 </p>
 
----
-
-### / Contribution Vibe
-![GitHub Contribution Snake](https://raw.githubusercontent.com/WTYeshh/WTYeshh/output/github-contribution-grid-snake.svg)
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
 
 <p align="center">
-  <a href="mailto:yeshwanthkg@gmail.com">Get in touch</a> // <a href="https://itsyesh.in">itsyesh.in</a>
+  <a href="https://itsyesh.in">itsyesh.in</a>
 </p>
