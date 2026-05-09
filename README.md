@@ -2,31 +2,47 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=100&lines=YESHWANTH" alt="Typing SVG" /></a>
 </p>
 
----
-
-<h2 align="center">Know About Me</h2>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/brain.png" width="150" align="left" style="margin-right: 20px;">
-  <strong>I'm an AI engineer</strong> focused on building intelligent systems and solving real-world problems with machine learning. Alongside this, I explore prompt-driven design and creative web building. I enjoy turning ideas into clean, functional digital experiences using tools like Canva, Figma, and Framer—bridging logic with design. My work sits at the intersection of AI, creativity, and modern web technologies.
+<p align="center">
+  <strong>AI Engineer // Product Designer // Storyteller</strong>
 </p>
 
-<br clear="both">
-
 ---
 
-<h2 align="center">The Visual Eye</h2>
+<h2 align="center">/ The Portals</h2>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/camera.png" width="150" align="right" style="margin-left: 20px;">
-  I also run <strong><a href="https://visuals.itsyesh.in">visuals.itsyesh.in</a></strong>, a dedicated space for my photography and videography. It's where I chase the light and capture the vibe through a cinematic lens. I focus on high-end visuals that tell a story beyond the frame.
+<p align="center">
+  Explore my dual identity as a technical builder and a visual storyteller.
 </p>
 
-<br clear="both">
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/brain.png" width="80"><br>
+      <h3>The Labs</h3>
+      <p>Building intelligent systems and clean digital experiences.</p>
+      <a href="https://itsyesh.in"><b>itsyesh.in →</b></a>
+      <br><br>
+    </td>
+    <td align="center" width="50%">
+      <br>
+      <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/camera.png" width="80"><br>
+      <h3>The Studio</h3>
+      <p>Chasing light and capturing cinematic stories.</p>
+      <a href="https://visuals.itsyesh.in"><b>visuals.itsyesh.in →</b></a>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">Connect</h2>
+### / Who I Am
+> I'm an AI engineer focused on building intelligent systems and solving real-world problems with machine learning. Alongside this, I explore prompt-driven design and creative web building. I enjoy turning ideas into clean, functional digital experiences using tools like Canva, Figma, and Framer—bridging logic with design. My work sits at the intersection of AI, creativity, and modern web technologies.
+
+---
+
+### / Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/yeshwanth-640958251"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
@@ -48,7 +64,7 @@
 
 ---
 
-<h2 align="center">Contribution</h2>
+### / Contribution
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WTYeshh&theme=react-dark&bg_color=00000000&hide_border=true&color=00A6ED" width="100%" />
