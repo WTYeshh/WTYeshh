@@ -9,17 +9,19 @@
 
 ---
 
-### / Who I Am
+<img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/divider.png" width="100%">
+
+### ✦ / Who I Am
 > I'm an AI engineer focused on building intelligent systems and solving real-world problems with machine learning. Alongside this, I explore prompt-driven design and creative web building. I enjoy turning ideas into clean, functional digital experiences using tools like Canva, Figma, and Framer—bridging logic with design. My work sits at the intersection of AI, creativity, and modern web technologies.
 
----
+<img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/divider.png" width="100%">
 
-### / The Creative Eye
+### 📸 / The Creative Eye
 I also run **[visuals.itsyesh.in](https://visuals.itsyesh.in)**, a dedicated space for my photography and videography. It's where I chase the light and capture the vibe through a cinematic lens.
 
----
+<img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/divider.png" width="100%">
 
-### / Core Expertise
+### 🛠️ / Core Expertise
 **AI & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -32,16 +34,16 @@ I also run **[visuals.itsyesh.in](https://visuals.itsyesh.in)**, a dedicated spa
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Prompt Design](https://img.shields.io/badge/Prompt--Design-000000?style=flat-square&logo=openai&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/divider.png" width="100%">
 
-### / Activity Graph
+### 📈 / Activity Graph
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WTYeshh&theme=react-dark&bg_color=00000000&hide_border=true&color=00A6ED" width="100%" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/divider.png" width="100%">
 
-### / Contribution Vibe
+### 🐍 / Contribution Vibe
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/WTYeshh/WTYeshh/output/github-contribution-grid-snake.svg)
 
 ---
