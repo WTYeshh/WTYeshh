@@ -29,10 +29,17 @@
 <h2 align="center">Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/WTYeshh"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white" alt="github"></a>
-  <a href="https://linkedin.com/in/yeshwanth-kg"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
+  <a href="https://linkedin.com/in/yeshwanth-640958251"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
+  <a href="https://x.com/ye_h18"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="x"></a>
+  <a href="https://www.instagram.com/itz.yez/"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=white" alt="instagram"></a>
+  <a href="http://vsco.co/yeshvisuals"><img src="https://img.shields.io/badge/VSCO-000000?style=flat-square&logo=vsco&logoColor=white" alt="vsco"></a>
+  <a href="https://discord.gg/N5BQcaD8SV"><img src="https://img.shields.io/badge/DISCORD-000000?style=flat-square&logo=discord&logoColor=white" alt="discord"></a>
+  <a href="https://open.spotify.com/user/31bkqs37sgvmzqmg3a7omztvjyki"><img src="https://img.shields.io/badge/SPOTIFY-000000?style=flat-square&logo=spotify&logoColor=white" alt="spotify"></a>
   <a href="mailto:yeshwanthkg@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=flat-square&logo=gmail&logoColor=white" alt="gmail"></a>
-  <a href="https://twitter.com/itsyeshh"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="x"></a>
+</p>
+
+<p align="center">
+  📍 <strong>Bangalore, India</strong>
 </p>
 
 <p align="center">
