@@ -29,10 +29,10 @@
 <h2 align="center">Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/WTYeshh"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
-  <a href="https://linkedin.com/in/yeshwanth-kg"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-  <a href="mailto:yeshwanthkg@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
-  <a href="https://twitter.com/itsyeshh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
+  <a href="https://github.com/WTYeshh"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white" alt="github"></a>
+  <a href="https://linkedin.com/in/yeshwanth-kg"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
+  <a href="mailto:yeshwanthkg@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=flat-square&logo=gmail&logoColor=white" alt="gmail"></a>
+  <a href="https://twitter.com/itsyeshh"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="x"></a>
 </p>
 
 <p align="center">
