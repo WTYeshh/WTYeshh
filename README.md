@@ -14,21 +14,26 @@
 
 <h2 align="center">𝕋𝕙𝕖 ℙ𝕠𝕣𝕥𝕒𝕝𝕤</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/brain.png" width="100"><br>
-  <strong>𝕃𝕒𝕓𝕤</strong><br>
-  𝙲𝚘𝚘𝚔𝚒𝚗𝚐 𝚞𝚙 𝚑𝚒𝚐𝚑-𝚔𝚎𝚢 𝙰𝙸 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚗𝚍 𝚎𝚕𝚒𝚝𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜.<br>
-  <a href="https://itsyesh.in">𝚒𝚝𝚜𝚢𝚎𝚜𝚑.𝚒𝚗 →</a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/camera.png" width="100"><br>
-  <strong>𝕊𝕥𝕦𝕕𝕚𝕠</strong><br>
-  𝙲𝚑𝚊𝚜𝚒𝚗𝚐 𝚝𝚑𝚎 𝚕𝚒𝚐𝚑𝚝 𝚊𝚗𝚍 𝚌𝚊𝚙𝚝𝚞𝚛𝚒𝚗𝚐 𝚎𝚕𝚒𝚝𝚎 𝚌𝚒𝚗𝚎𝚖𝚊𝚝𝚒𝚌 𝚟𝚒𝚋𝚎𝚜.<br>
-  <a href="https://visuals.itsyesh.in">𝚟𝚒𝚜𝚞𝚊𝚕𝚜.𝚒𝚝𝚜𝚢𝚎𝚜𝚑.𝚒𝚗 →</a>
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr border="0">
+    <td align="center" width="50%" border="0">
+      <br>
+      <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/brain.png" width="100"><br>
+      <h3>𝕃𝕒𝕓𝕤</h3>
+      <p>𝙲𝚘𝚘𝚔𝚒𝚗𝚐 𝚞𝚙 𝚑𝚒𝚐𝚑-𝚔𝚎𝚢 𝙰𝙸 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚗𝚍 𝚎𝚕𝚒𝚝𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜.</p>
+      <a href="https://itsyesh.in"><img src="https://img.shields.io/badge/VISIT_THE_LABS-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <br><br>
+    </td>
+    <td align="center" width="50%" border="0">
+      <br>
+      <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/camera.png" width="100"><br>
+      <h3>𝕊𝕥𝕦𝕕𝕚𝕠</h3>
+      <p>𝙲𝚑𝚊𝚜𝚒𝚗𝚐 𝚝𝚑𝚎 𝚕𝚒𝚐𝚑𝚝 𝚊𝚗𝚍 𝚌𝚊𝚙𝚝𝚞𝚛𝚒𝚗𝚐 𝚎𝚕𝚒𝚝𝚎 𝚌𝚒𝚗𝚎𝚖𝚊𝚝𝚒𝚌 𝚟𝚒𝚋𝚎𝚜.</p>
+      <a href="https://visuals.itsyesh.in"><img src="https://img.shields.io/badge/VISIT_THE_STUDIO-000000?style=for-the-badge&logo=artstation&logoColor=white" /></a>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
