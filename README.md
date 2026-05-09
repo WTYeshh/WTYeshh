@@ -10,10 +10,6 @@
 
 <h2 align="center">/ The Portals</h2>
 
-<p align="center">
-  Explore my dual identity as a technical builder and a visual storyteller.
-</p>
-
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
