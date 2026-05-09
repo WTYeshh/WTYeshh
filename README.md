@@ -34,6 +34,13 @@ I also run **[visuals.itsyesh.in](https://visuals.itsyesh.in)**, a dedicated spa
 
 ---
 
+### / Activity Graph
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WTYeshh&theme=react-dark&bg_color=00000000&hide_border=true&color=00A6ED" width="100%" />
+</p>
+
+---
+
 ### / Contribution Vibe
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/WTYeshh/WTYeshh/output/github-contribution-grid-snake.svg)
 
