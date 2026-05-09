@@ -33,12 +33,29 @@
 
 ---
 
-### / Who I Am
-> I'm an AI engineer focused on building intelligent systems and solving real-world problems with machine learning. Alongside this, I explore prompt-driven design and creative web building. I enjoy turning ideas into clean, functional digital experiences using tools like Canva, Figma, and Framer—bridging logic with design. My work sits at the intersection of AI, creativity, and modern web technologies.
+<h2 align="center">/ Who I Am</h2>
+
+<p align="center">
+  <em>"I'm an AI engineer focused on building intelligent systems and solving real-world problems with machine learning. My work sits at the intersection of AI, creativity, and modern web technologies—turning logic into aesthetic, functional digital magic."</em>
+</p>
 
 ---
 
-### / Connect
+<h2 align="center">/ Technical Arsenal</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="python">
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white" alt="pytorch">
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white" alt="tensorflow">
+  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" alt="figma">
+  <img src="https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white" alt="framer">
+  <img src="https://img.shields.io/badge/Canva-000000?style=flat-square&logo=canva&logoColor=white" alt="canva">
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" alt="openai">
+</p>
+
+---
+
+<h2 align="center">/ Connect</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/yeshwanth-640958251"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
@@ -54,20 +71,20 @@
   📍 <strong>Bangalore, India</strong>
 </p>
 
-<p align="center">
-  <em>"Code is never finished. It only becomes slightly less terrible over time."</em>
-</p>
-
 ---
 
-### / Contribution
+<h2 align="center">/ Stats & Vibe</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WTYeshh&theme=react-dark&bg_color=00000000&hide_border=true&color=00A6ED" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WTYeshh&theme=react-dark&bg_color=00000000&hide_border=true&color=FFFFFF" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTYeshh&layout=compact&theme=transparent&hide_border=true&title_color=00A6ED&text_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTYeshh&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=ffffff" height="150" />
+</p>
+
+<p align="center">
+  <em>"Code is never finished. It only becomes slightly less terrible over time."</em>
 </p>
 
 <p align="center">
