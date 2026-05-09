@@ -14,26 +14,21 @@
 
 <h2 align="center">𝕋𝕙𝕖 ℙ𝕠𝕣𝕥𝕒𝕝𝕤</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/brain.png" width="80"><br>
-      <h3>𝕃𝕒𝕓𝕤</h3>
-      <p>𝙲𝚘𝚘𝚔𝚒𝚗𝚐 𝚞𝚙 𝚑𝚒𝚐𝚑-𝚔𝚎𝚢 𝙰𝙸 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚗𝚍 𝚎𝚕𝚒𝚝𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜.</p>
-      <a href="https://itsyesh.in"><b>𝗂𝗍𝗌𝗒𝖾𝗌𝗁.𝗂𝗇 →</b></a>
-      <br><br>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/camera.png" width="80"><br>
-      <h3>𝕊𝕥𝕦𝕕𝕚𝕠</h3>
-      <p>𝘊𝘩𝘢𝘴𝘪𝘯𝘨 𝘵𝘩𝘦 𝘭𝘪𝘨𝘩𝘵 𝘢𝘯𝘥 𝘤𝘢𝘱𝘵𝘶𝘳𝘪𝘯𝘨 𝘦𝘭𝘪𝘵𝘦 𝘤𝘪𝘯𝘦𝘮𝘢𝘵𝘪𝘤 𝘷𝘪𝘣𝘦𝘴.</p>
-      <a href="https://visuals.itsyesh.in"><b>𝗏𝗂𝗌𝗎𝖺𝗅𝗌.𝗂𝗍𝗌𝗒𝖾𝗌𝗁.𝗂𝗇 →</b></a>
-      <br><br>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/brain.png" width="100"><br>
+  <strong>𝕃𝕒𝕓𝕤</strong><br>
+  𝙲𝚘𝚘𝚔𝚒𝚗𝚐 𝚞𝚙 𝚑𝚒𝚐𝚑-𝚔𝚎𝚢 𝙰𝙸 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚗𝚍 𝚎𝚕𝚒𝚝𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜.<br>
+  <a href="https://itsyesh.in">𝗂𝗍𝗌𝗒𝖾𝗌𝗁.𝗂𝗇 →</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/camera.png" width="100"><br>
+  <strong>𝕊𝕥𝕦𝕕𝕚𝕠</strong><br>
+  𝘊𝘩𝘢𝘴𝘪𝘯𝘨 𝘵𝘩𝘦 𝘭𝘪𝘨𝘩𝘵 𝘢𝘯𝘥 𝘤𝘢𝘱𝘵𝘶𝘳𝘪𝘯𝘨 𝘦𝘭𝘪𝘵𝘦 𝘤𝘪𝘯𝘦𝘮𝘢𝘵𝘪𝘤 𝘷𝘪𝘣𝘦𝘴.<br>
+  <a href="https://visuals.itsyesh.in">𝗏𝗂𝗌𝗎𝖺𝗅𝗌.𝗂𝗍𝗌𝗒𝖾𝗌𝗁.𝗂𝗇 →</a>
+</p>
 
 <br><br>
 
