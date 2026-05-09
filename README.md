@@ -16,7 +16,7 @@
       <br>
       <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/brain.png" width="80"><br>
       <h3>The Labs</h3>
-      <p>Building intelligent systems and clean digital experiences.</p>
+      <p>Cooking up high-key AI systems and elite digital experiences.</p>
       <a href="https://itsyesh.in"><b>itsyesh.in →</b></a>
       <br><br>
     </td>
