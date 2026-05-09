@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/banner.png" width="100%" alt="Yesh Banner">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=100&lines=Y+E+S+H;YESHWANTH" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
