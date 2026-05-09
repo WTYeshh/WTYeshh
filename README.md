@@ -2,12 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=100&lines=YESHWANTH" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/WTYeshh?style=flat&color=000000&labelColor=000000&logo=github&logoColor=white" alt="stars">
-  <img src="https://img.shields.io/github/forks/WTYeshh?style=flat&color=000000&labelColor=000000&logo=github&logoColor=white" alt="forks">
-  <img src="https://img.shields.io/github/followers/WTYeshh?style=flat&color=000000&labelColor=000000&logo=github&logoColor=white" alt="followers">
-</p>
-
 ---
 
 <h2 align="center">Know About Me</h2>
