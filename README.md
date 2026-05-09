@@ -24,7 +24,7 @@ I also run **[visuals.itsyesh.in](https://visuals.itsyesh.in)**, a dedicated spa
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML--Engineering-00A6ED?style=flat-square)
+![ML](https://img.shields.io/badge/ML--Engineering-00A6ED?style=flat-square)
 
 **Design & Creative Web**
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
@@ -34,22 +34,8 @@ I also run **[visuals.itsyesh.in](https://visuals.itsyesh.in)**, a dedicated spa
 
 ---
 
-### / GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WTYeshh&theme=flat&no-bg=true&no-frame=true&column=7" alt="github trophy" /></a>
-</p>
-
----
-
-### / Activity & Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WTYeshh&show_icons=true&theme=transparent&hide_border=true&title_color=00A6ED&text_color=ffffff&icon_color=00A6ED" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTYeshh&layout=compact&theme=transparent&hide_border=true&title_color=00A6ED&text_color=ffffff" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WTYeshh&theme=react-dark&bg_color=00000000&hide_border=true&color=00A6ED" width="100%" />
-</p>
+### / Contribution Vibe
+![GitHub Contribution Snake](https://raw.githubusercontent.com/WTYeshh/WTYeshh/output/github-contribution-grid-snake.svg)
 
 ---
 
