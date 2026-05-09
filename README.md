@@ -7,6 +7,10 @@
   <a href="https://twitter.com/itsyeshh">X</a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/robot-camera.gif" width="300" alt="Cute AI Robot taking a photo">
+</p>
+
 ---
 
 ### / Who I Am
