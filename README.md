@@ -24,7 +24,7 @@
       <br>
       <img src="https://raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/camera.png" width="80"><br>
       <h3>The Studio</h3>
-      <p>Chasing light and capturing cinematic stories.</p>
+      <p>Chasing the light and capturing elite cinematic vibes.</p>
       <a href="https://visuals.itsyesh.in"><b>visuals.itsyesh.in →</b></a>
       <br><br>
     </td>
