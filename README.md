@@ -18,7 +18,7 @@
   <tr border="0">
     <td align="center" width="50%" border="0">
       <br>
-      <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/archive_profile.png%3Fv=2&mask=circle&w=200&h=200&fit=cover" width="100"><br>
+      <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/archive_profile.png%3Fv=3&mask=circle&w=200&h=200&fit=cover" width="100"><br>
       <h3>𝔸𝕣𝕔𝕙𝕚𝕧𝕖</h3>
       <p>𝙲𝚘𝚘𝚔𝚒𝚗𝚐 𝚞𝚙 𝚑𝚒𝚐𝚑-𝚔𝚎𝚢 𝙰𝙸 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚗𝚍 𝚎𝚕𝚒𝚝𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜.</p>
       <a href="https://itsyesh.in"><img src="https://img.shields.io/badge/OPEN_THE_ARCHIVE-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -26,7 +26,7 @@
     </td>
     <td align="center" width="50%" border="0">
       <br>
-      <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/camera.png%3Fv=2&mask=circle&w=200&h=200&fit=cover&bg=black" width="100"><br>
+      <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/WTYeshh/WTYeshh/main/assets/camera.png%3Fv=3&mask=circle&w=200&h=200&fit=cover&bg=black" width="100"><br>
       <h3>𝕊𝕥𝕦𝕕𝕚𝕠</h3>
       <p>𝙲𝚑𝚊𝚜𝚒𝚗𝚐 𝚝𝚑𝚎 𝚕𝚒𝚐𝚑𝚝 𝚊𝚗𝚍 𝚌𝚊𝚙𝚝𝚞𝚛𝚒𝚗𝚐 𝚎𝚕𝚒𝚝𝚎 𝚌𝚒𝚗𝚎𝚖𝚊𝚝𝚒𝚌 𝚟𝚒𝚋𝚎𝚜.</p>
       <a href="https://visuals.itsyesh.in"><img src="https://img.shields.io/badge/ENTER_THE_STUDIO-000000?style=for-the-badge&logo=artstation&logoColor=white" /></a>
